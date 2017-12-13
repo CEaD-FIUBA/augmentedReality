@@ -26,9 +26,11 @@ import com.vuforia.samples.VuforiaSamples.R;
 public class ActivityLauncher extends ListActivity
 {
     
-    private String mActivities[] = { "Image Targets", "VuMark", "Cylinder Targets",
-            "Multi Targets", "User Defined Targets", "Object Reco", "Cloud Reco",
-            "Text Reco", "Virtual Buttons"};
+    //private String mActivities[] = { "Image Targets", "VuMark", "Cylinder Targets",
+      //      "Multi Targets", "User Defined Targets", "Object Reco", "Cloud Reco",
+        //    "Text Reco", "Virtual Buttons"};
+
+    private String mActivities[] = { "Object Reco"};
     
     
     @Override

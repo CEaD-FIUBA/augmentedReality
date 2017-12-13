@@ -19,38 +19,13 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SampleAppRenderer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRenderer.java">
+    <leaf>
+      <file leaf-file-name="ActivityLauncher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#15524#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#3383#3384#0" expanded="false" />
-                <element signature="e#3414#3415#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SampleApplicationSession.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationSession.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="371" column="449" lean-forward="false" selection-start-line="371" selection-start-column="449" selection-end-line="371" selection-end-column="449" />
-              <folding>
-                <element signature="e#22245#22306#0" expanded="true" />
-                <element signature="e#22385#22442#0" expanded="true" />
-                <element signature="e#22530#22590#0" expanded="true" />
-                <element signature="e#22678#22738#0" expanded="true" />
-                <element signature="e#22835#22904#0" expanded="true" />
-                <element signature="e#23001#23070#0" expanded="true" />
-                <element signature="e#23159#23220#0" expanded="true" />
-                <element signature="e#23318#23388#0" expanded="true" />
-                <element signature="e#23432#23494#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="196">
+              <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1735,6 +1710,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationSession.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java" />
       </list>
     </option>
   </component>
@@ -1771,63 +1747,19 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VuforiaSamples-6-5-25" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VuforiaSamples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VuforiaSamples-6-5-25" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SampleApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1513122568320" />
     <property name="device.picker.selection" value="3AMJA16419039760" />
-    <property name="SearchEverywhereHistoryKey" value="SampleApplicationSession&#9;PSI&#9;JAVA://com.vuforia.samples.SampleApplication.SampleApplicationSession&#10;api ke&#9;PSI&#9;JAVA://android.R.attr#apiKey" />
+    <property name="SearchEverywhereHistoryKey" value="ActivityLauncher&#9;PSI&#9;JAVA://com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivityLauncher&#10;SampleApplicationSession&#9;PSI&#9;JAVA://com.vuforia.samples.SampleApplication.SampleApplicationSession&#10;api ke&#9;PSI&#9;JAVA://android.R.attr#apiKey" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1912,7 +1844,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513124123255" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513135905392" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2012,7 +1944,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513124123256" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513135905393" />
       </method>
     </configuration>
     <list size="1">
@@ -2057,9 +1989,9 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2068,7 +2000,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2101,12 +2033,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15524#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3383#3384#0" expanded="false" />
-            <element signature="e#3414#3415#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2115,15 +2042,41 @@
         <state relative-caret-position="6680">
           <caret line="371" column="449" lean-forward="false" selection-start-line="371" selection-start-column="449" selection-end-line="371" selection-end-column="449" />
           <folding>
-            <element signature="e#22245#22306#0" expanded="true" />
-            <element signature="e#22385#22442#0" expanded="true" />
-            <element signature="e#22530#22590#0" expanded="true" />
-            <element signature="e#22678#22738#0" expanded="true" />
-            <element signature="e#22835#22904#0" expanded="true" />
-            <element signature="e#23001#23070#0" expanded="true" />
-            <element signature="e#23159#23220#0" expanded="true" />
-            <element signature="e#23318#23388#0" expanded="true" />
-            <element signature="e#23432#23494#0" expanded="true" />
+            <element signature="e#22245#22306#0" expanded="false" />
+            <element signature="e#22385#22442#0" expanded="false" />
+            <element signature="e#22530#22590#0" expanded="false" />
+            <element signature="e#22678#22738#0" expanded="false" />
+            <element signature="e#22835#22904#0" expanded="false" />
+            <element signature="e#23001#23070#0" expanded="false" />
+            <element signature="e#23159#23220#0" expanded="false" />
+            <element signature="e#23318#23388#0" expanded="false" />
+            <element signature="e#23432#23494#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6680">
+          <caret line="371" column="449" lean-forward="false" selection-start-line="371" selection-start-column="449" selection-end-line="371" selection-end-column="449" />
+          <folding>
+            <element signature="e#22245#22306#0" expanded="false" />
+            <element signature="e#22385#22442#0" expanded="false" />
+            <element signature="e#22530#22590#0" expanded="false" />
+            <element signature="e#22678#22738#0" expanded="false" />
+            <element signature="e#22835#22904#0" expanded="false" />
+            <element signature="e#23001#23070#0" expanded="false" />
+            <element signature="e#23159#23220#0" expanded="false" />
+            <element signature="e#23318#23388#0" expanded="false" />
+            <element signature="e#23432#23494#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2132,38 +2085,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="1291" column="32" lean-forward="false" selection-start-line="1291" selection-start-column="32" selection-end-line="1291" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#15524#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3383#3384#0" expanded="false" />
-            <element signature="e#3414#3415#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="5900">
           <caret line="371" column="449" lean-forward="false" selection-start-line="371" selection-start-column="449" selection-end-line="371" selection-end-column="449" />
           <folding>
-            <element signature="e#22245#22306#0" expanded="true" />
-            <element signature="e#22385#22442#0" expanded="true" />
-            <element signature="e#22530#22590#0" expanded="true" />
-            <element signature="e#22678#22738#0" expanded="true" />
-            <element signature="e#22835#22904#0" expanded="true" />
-            <element signature="e#23001#23070#0" expanded="true" />
-            <element signature="e#23159#23220#0" expanded="true" />
-            <element signature="e#23318#23388#0" expanded="true" />
-            <element signature="e#23432#23494#0" expanded="true" />
+            <element signature="e#22245#22306#0" expanded="false" />
+            <element signature="e#22385#22442#0" expanded="false" />
+            <element signature="e#22530#22590#0" expanded="false" />
+            <element signature="e#22678#22738#0" expanded="false" />
+            <element signature="e#22835#22904#0" expanded="false" />
+            <element signature="e#23001#23070#0" expanded="false" />
+            <element signature="e#23159#23220#0" expanded="false" />
+            <element signature="e#23318#23388#0" expanded="false" />
+            <element signature="e#23432#23494#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5340">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ObjectRecognition/OR_about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/ObjectRecognition/CubeWireframe.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
