@@ -1,4 +1,0 @@
-#Tue Dec 12 18:53:55 ART 2017
-base.0=/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/app/build/intermediates/transforms/dexMerger/debug/48
-path.0=classes.dex
-renamed.0=classes.dex

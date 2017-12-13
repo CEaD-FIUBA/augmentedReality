@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/src/main/res/drawable-xxhdpi/logo.png"
+    }
+]

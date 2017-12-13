@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/anim/bottom_down.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/src/main/res/anim/bottom_down.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/VuforiaSamples-6-5-25/app/src/main/res/anim/bottom_up.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/build/intermediates/res/merged/debug/anim/bottom_up.xml",
+        "source": "/home/cristiangonzalez/Android/vuforia-sdk-android-6-5-25 /samples/VuforiaSamples-6-5-25/app/src/main/res/anim/bottom_up.xml"
+    }
+]
