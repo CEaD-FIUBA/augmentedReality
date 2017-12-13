@@ -36,4 +36,6 @@ https://drive.google.com/open?id=1DVU8o7vdk5_oeui6mge_DaeKDGRMzy8K
 https://drive.google.com/open?id=1fc0_Xs5zN4PDo3M7vT3fNLN-H2QfD6Px
 
 
+Un buen video de lo que queremos: https://www.youtube.com/watch?v=6W7_ZssUTDQ
+
 
