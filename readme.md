@@ -23,3 +23,6 @@ Object Scanner
 =============================================
 
 Para poder realizar el proyecto, se tiene que bajar el apk e instalalarlo.
+
+
+Link: https://developer.vuforia.com/downloads/tool#downloadModal
