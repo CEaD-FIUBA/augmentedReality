@@ -32,6 +32,7 @@ Video de cómo funciona el object scanner: https://drive.google.com/open?id=1WXU
 Las imagenes para escanear: 
            
 https://drive.google.com/open?id=1DVU8o7vdk5_oeui6mge_DaeKDGRMzy8K
+
 https://drive.google.com/open?id=1fc0_Xs5zN4PDo3M7vT3fNLN-H2QfD6Px
 
 
