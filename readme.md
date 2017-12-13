@@ -16,3 +16,10 @@ El proyecto debe tener la siguiente estructura
     
 
 Esta carpeta debe estar a la misma altura que la carpeta SDK. 
+
+
+
+Object Scanner
+=============================================
+
+Para poder realizar el proyecto, se tiene que bajar el apk e instalalarlo.
