@@ -19,23 +19,16 @@ Esta carpeta debe estar a la misma altura que la carpeta SDK.
 
 
 
-Object Scanner
+Model Target
 =============================================
 
-Para poder realizar el proyecto, se tiene que bajar el apk e instalalarlo.
+Requisitos Minimos:
+
+- Quad Core CPU
+- 1-2 GB RAM
+- 5.0 desde arriba
+- Selective Image Stabilization
 
 
-Link: https://developer.vuforia.com/downloads/tool#downloadModal
-
-Video de cómo funciona el object scanner: https://drive.google.com/open?id=1WXUcjWtrye-C96XXtZk-hexgYwDc63ug
-
-Las imagenes para escanear: 
-           
-https://drive.google.com/open?id=1DVU8o7vdk5_oeui6mge_DaeKDGRMzy8K
-
-https://drive.google.com/open?id=1fc0_Xs5zN4PDo3M7vT3fNLN-H2QfD6Px
-
-
-Un buen video de lo que queremos: https://www.youtube.com/watch?v=6W7_ZssUTDQ
 
 
