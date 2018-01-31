@@ -30,5 +30,10 @@ Requisitos Minimos:
 - Selective Image Stabilization
 
 
+Model Target Generator
+=============================================
+
+Link = https://developer.vuforia.com/downloads/tool#downloadModal
+
 
 
