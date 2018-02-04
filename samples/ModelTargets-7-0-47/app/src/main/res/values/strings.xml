@@ -4,8 +4,8 @@
     <string name="app_name">ModelTargets</string>
     <string name="app_description">Model Targets Sample Applications</string>
     
-    <string name="button_start">Start</string>
-    <string name="button_close">Close</string>
+    <string name="button_start">Iniciar</string>
+    <string name="button_close">Cerrar</string>
     <string name="button_OK">OK</string>
     
     <string name="INIT_ERROR">Error</string>
