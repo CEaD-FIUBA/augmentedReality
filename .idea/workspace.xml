@@ -2,180 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cbeb869-e9a4-4707-857e-84efdc3156ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CloudReco/CR_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/CY_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/Sphere.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/TextureWireframeNoBorder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/sodacan.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/sodacan.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/CylinderTargets/sphere.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/ImageTargets/Buildings.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/ImageTargets/Buildings.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/ImageTargets/IT_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/MultiTargets/FlakesBox.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/MultiTargets/FlakesBox.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/MultiTargets/MT_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/MultiTargets/TextureBowlAndSpoon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/MultiTargets/TextureWireframe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/ObjectRecognition/CubeWireframe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/ObjectRecognition/OR_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/StonesAndChips.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/StonesAndChips.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/Tarmac.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/Tarmac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/TextReco/TR_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/TextReco/Vuforia-English-word.vwl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/TextureTeapotBlue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/TextureTeapotBrass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/TextureTeapotRed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/UserDefinedTargets/UD_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VirtualButtons/TextureTeapotGreen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VirtualButtons/TextureTeapotYellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VirtualButtons/VB_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VirtualButtons/Wood.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VirtualButtons/Wood.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/VuMark/VM_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/Vuforia.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/Vuforia.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/card_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/reticle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/assets/vumark_texture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/SampleAppRendererControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationControl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/SampleApplicationSession.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/CubeObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/CubeShaders.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/LineShaders.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/LoadingDialogHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/MeshObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/SampleApplication3DModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/SampleApplicationGLView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/SampleMath.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/SampleUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/Teapot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/Texture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/SampleApplication/utils/VideoBackgroundShader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudRecoRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderModel.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargetRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargetRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargetRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtonRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/VuMark/Plane.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/VuMark/VuMark.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/app/VuMark/VuMarkRenderer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/java/com/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/anim/bottom_down.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/anim/bottom_up.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-hdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-hdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-ldpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-ldpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-mdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-mdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-xhdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-xhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-xxhdpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable-xxhdpi/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/bg00.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/bg70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/button_close_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/button_close_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/camera_button_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/card_info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/close_button_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_camera_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_camera_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_plus_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/icon_plus_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/new_target_button_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/reticle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/round_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/scanline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/drawable/vuforia_splash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/about_screen.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/activities_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/activities_list_text_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_reticle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_textreco.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_udt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/camera_overlay_with_scanline.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/card.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group_divider.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_group_radio_button.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/sample_app_menu_layer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/layout/splash_screen.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-hdpi/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-ldpi/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-mdpi/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-v13/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-xhdpi/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values-xxhdpi/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Front.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/FlakesBox_Top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/chips.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/stones.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_chips_A4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_chips_USLetter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_cylinder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_cylinder_A4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_cylinder_USLetter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_stones_A4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_stones_USLetter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_tarmac_A4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_tarmac_USLetter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_wood_A4.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/target_wood_USLetter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/tarmac.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/media/wood.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/VuforiaSamples-7-0-47/settings.gradle" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.idea/libraries/android_android_22.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileContent/annotation-processors.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileContent/fileContent.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/javaCompile/taskJars.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/assets/debug/Diffuse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/assets/debug/Lander.v3d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/assets/debug/MT_about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/assets/debug/VuforiaMars_ModelTarget.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/assets/debug/VuforiaMars_ModelTarget.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/packageDebug/zip-cache/U7gf2SBDAbKLhB2NhvJug8Ss_3Q=" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/jniLibs/debug/arm64-v8a/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/jniLibs/debug/armeabi-v7a/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/jniLibs/debug/x86/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libVuforia.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/outputs/apk/ModelTargets-7-0-47-debug.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/build/android-profile/profile-2018-02-04-14-34-44-169.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/build/android-profile/profile-2018-02-04-14-34-53-053.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/build/android-profile/profile-2018-02-04-14-40-22-638.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/build/intermediates/dex-cache/cache.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.idea/misc.xml" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.idea/workspace.xml" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/ModelTargets-7-0-47.iml" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/ModelTargets-7-0-47.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/app.iml" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/local.properties" afterPath="$PROJECT_DIR$/samples/ModelTargets-7-0-47/local.properties" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -186,7 +60,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,7 +91,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -232,13 +106,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -382,7 +256,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,7 +263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -398,7 +270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

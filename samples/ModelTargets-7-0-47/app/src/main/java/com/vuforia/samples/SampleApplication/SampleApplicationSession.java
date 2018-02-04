@@ -332,7 +332,7 @@ public class SampleApplicationSession implements UpdateCallbackInterface
             // Prevent the onDestroy() method to overlap with initialization:
             synchronized (mShutdownLock)
             {
-                Vuforia.setInitParameters(mActivity, mVuforiaFlags, "");
+                Vuforia.setInitParameters(mActivity, mVuforiaFlags, "AW+WG8r/////AAAAGZ8rOGzLx0iItvOKHLD1YHR318byiarinILilv4QPoc/O51R6llBs/nIOrQrOWRwgHpegn/pk9PlHFuW8nkQq5XALrsqXIdRzneyMFQxJ7D9Fepy5DVHGaeRKxUwqfRs8fYeuj2Qe34Uqgc35m1p8HhHZeBSODAThC6ONSfvgQtq0GyA6D1tMF3IGWaHRF6QiPISIm85ICLrEz2eoKR+2/SCwdBwXTBuLqvaYU1BOWLvHvISJsy5YKcJs0Mfd2aXGDVFpNcJnCjojW99Cvmt7xnfbezHRkeUlZpaFKCCOX4LNdB734+fnFsPAsRJDCX8LP5Y62xD7R74SU/ZrdRiskH+mIXhski05no1/pVYN4X4");
                 
                 do
                 {

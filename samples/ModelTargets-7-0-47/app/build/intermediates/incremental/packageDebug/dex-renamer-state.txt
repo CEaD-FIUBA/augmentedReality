@@ -1,4 +1,4 @@
-#Sun Feb 04 14:40:27 ART 2018
-base.0=/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Feb 04 15:04:22 ART 2018
+base.0=/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

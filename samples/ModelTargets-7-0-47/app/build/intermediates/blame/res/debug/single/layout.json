@@ -8,12 +8,28 @@
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group_divider.xml"
     },
     {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
         "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group.xml"
     },
     {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/reset_btn_overlay.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/reset_btn_overlay.xml"
+    },
+    {
         "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group_divider.xml"
     },
     {
         "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
@@ -24,11 +40,27 @@
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_layer.xml"
     },
     {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/about_screen.xml"
+    },
+    {
         "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/camera_overlay.xml"
     },
     {
         "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
         "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
+        "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/layout/camera_overlay.xml"
     }
 ]
