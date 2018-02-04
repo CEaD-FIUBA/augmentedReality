@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId "com.vuforia.samples.ModelTargets"
-        minSdkVersion 17
+        minSdkVersion 13
         targetSdkVersion 22
         versionCode 750
         versionName "7.5"

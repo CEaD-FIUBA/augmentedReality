@@ -43,7 +43,7 @@
         ]
     },
     {
-        "outputFile": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+        "outputFile": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -54,7 +54,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "file": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/values-xxhdpi/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -73,7 +73,7 @@
                     "endOffset": 147
                 },
                 "from": {
-                    "file": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "file": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/values-xxhdpi/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

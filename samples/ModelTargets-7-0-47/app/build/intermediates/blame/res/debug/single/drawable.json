@@ -1,31 +1,19 @@
 [
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg70.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/bg70.png"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/vuforia_splash.png"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/vuforia_splash.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/vuforia_splash.png"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/selector_button_reset.xml",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/selector_button_reset.xml"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg70.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/bg70.png"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/icon.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/icon.png"
-    },
-    {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_pressed.xml",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/background_button_reset_pressed.xml"
-    },
-    {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/selector_button_start.xml",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/selector_button_start.xml"
-    },
-    {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg00.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/bg00.png"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_pressed.xml",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/background_button_reset_pressed.xml"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_normal.xml",
@@ -36,16 +24,16 @@
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/vuforia_splash.png"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/reset_icon.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/reset_icon.png"
-    },
-    {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg00.png",
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/bg00.png"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/reset_icon.png",
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/reset_icon.png"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/reset_icon.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/reset_icon.png"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/logo.png",
@@ -56,8 +44,8 @@
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/selector_button_start.xml"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/logo.png"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg00.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/bg00.png"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/selector_button_reset.xml",
@@ -68,12 +56,24 @@
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/icon.png"
     },
     {
-        "merged": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_normal.xml",
-        "source": "/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/background_button_reset_normal.xml"
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/selector_button_reset.xml",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/selector_button_reset.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/logo.png"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_pressed.xml",
         "source": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/src/main/res/drawable/background_button_reset_pressed.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/background_button_reset_normal.xml",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/background_button_reset_normal.xml"
+    },
+    {
+        "merged": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/selector_button_start.xml",
+        "source": "/home/cristiangonzalez/Android/ejemplo/samples/ModelTargets-7-0-47/app/src/main/res/drawable/selector_button_start.xml"
     },
     {
         "merged": "/home/cristiangonzalez/Android/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/res/merged/debug/drawable/bg70.png",
