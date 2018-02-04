@@ -1,5 +1,5 @@
 /*===============================================================================
-Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
+Copyright (c) 2015-2017 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2012-2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 
@@ -60,7 +60,10 @@ public:
                             ///< (this TrackableResult does not have a state)
         DETECTED,           ///< The TrackableResult was detected
         TRACKED,            ///< The TrackableResult was tracked
-        EXTENDED_TRACKED    ///< The Trackable Result was extended tracked
+        EXTENDED_TRACKED,   ///< The Trackable Result was extended tracked
+        DEGRADED            ///< The Trackable Result has a pose of degraded
+                            ///< quality (i.e. pose is 3DOF but Tracker is
+                            ///< expected to deliver 6DOF)
     };
 
     /// Returns the tracking status

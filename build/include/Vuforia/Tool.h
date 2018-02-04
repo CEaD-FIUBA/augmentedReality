@@ -115,6 +115,14 @@ namespace Tool
     VUFORIA_API void setRotation(Matrix34F& pose,
                               const Vec3F& axis, float angle);
 
+    /// Sets the rotation part of a 3x4 pose matrix using quaternion as input
+    /**
+     * Quaternion is represented in Vec4F as (x, y, z, w)
+     */
+    VUFORIA_API void setRotationFromQuaternion(Matrix34F& pose, const Vec4F& quaternion);
+
+
+
 } // namespace Tool
 
 } // namespace Vuforia

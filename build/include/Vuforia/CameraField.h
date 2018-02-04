@@ -1,13 +1,13 @@
 /*===============================================================================
- Copyright (c) 2016 PTC Inc. All Rights Reserved.
+Copyright (c) 2016-2017 PTC Inc. All Rights Reserved.
  
- Vuforia is a trademark of PTC Inc., registered in the United States and other
- countries.
- 
- @file
+Vuforia is a trademark of PTC Inc., registered in the United States and other
+countries.
+
+@file 
     CameraField.h
- 
- @brief
+
+@brief
     Header file for CameraField class.
  ===============================================================================*/
 #ifndef _VUFORIA_CAMERAFIELD_H_

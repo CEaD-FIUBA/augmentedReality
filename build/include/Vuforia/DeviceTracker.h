@@ -1,6 +1,5 @@
 /*==============================================================================
-Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
-
+Copyright (c) 2015-2017 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 
@@ -50,7 +49,10 @@ public:
      *  Set an offset transformation between the World Coordinate System and the 
      *  Device (Base) Coordinate System. By default this transformation is identity.
      *  Offset transform will be composed with the current pose of the device tracker
-     *  This offset can used for advanced scenarios.
+     *  This offset can be used for advanced scenarios.
+     *
+     *  NOTE: Currently only supported for the RotationalDeviceTracker. Will return
+     *        'false' for the PositionalDeviceTracker.
      *
      *  \param baseTransform  offset transformation
      *
@@ -63,9 +65,9 @@ public:
     /**
      *
      *  Get the current offset transformation between the World Coordinate System and the
-     *  Device Base Coordinate System. 
-     *  
-     *  \return the offset transformation matrix.
+     *  Device Base Coordinate System. Default value for this transformation is identity.
+     *
+     *  \return the offset transformation matrix (will be identity in case of an error).
      *
      */
     virtual Matrix34F getWorldToDeviceBaseTransform() const = 0;

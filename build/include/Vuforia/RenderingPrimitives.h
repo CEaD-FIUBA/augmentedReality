@@ -1,6 +1,5 @@
 /*===============================================================================
-Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
-
+Copyright (c) 2015-2017 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 
@@ -22,6 +21,7 @@ Header file for RenderingPrimitives class.
 #include <Vuforia/Matrices.h>
 #include <Vuforia/Vectors.h>
 #include <Vuforia/ViewerParameters.h>
+#include <Vuforia/CameraCalibration.h>
 
 namespace Vuforia
 {
@@ -54,8 +54,15 @@ public:
     virtual Vec4F getNormalizedViewport(VIEW viewID) const;
 
     /// Returns the projection matrix to use for the given view and the specified coordinate system
-    virtual Matrix34F getProjectionMatrix(
-        VIEW viewID, COORDINATE_SYSTEM_TYPE csType, bool adjustForViewportCentreToEyeAxis = true) const;
+    /*
+     * The caller should pass in the camera calibration using Vuforia::State::getCameraCalibration().
+     * If the cameraCalibration is NULL then the camera calibration calculated when the rendering primitives
+     * were constructed will be used.
+     */
+    virtual Matrix34F getProjectionMatrix(VIEW viewID,
+                                          COORDINATE_SYSTEM_TYPE csType,
+                                          const CameraCalibration* cameraCalibration,
+                                          bool adjustForViewportCentreToEyeAxis = true);
 
     /// Returns the Field-of-View of the viewports managed by this RenderingPrimitives object
     /* The effective FOV is computed based on screen size and viewer maximum FOV,

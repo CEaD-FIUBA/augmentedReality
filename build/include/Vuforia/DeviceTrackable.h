@@ -25,7 +25,7 @@ namespace Vuforia
 
 /// DeviceTrackable class.
 /**
- *  Base class representing devices the 3D pose of which can be tracked by DeviceTrackers
+ *  Base class representing the pose of the device tracked by DeviceTracker
  */
 class VUFORIA_API DeviceTrackable : public Trackable
 {    

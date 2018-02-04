@@ -1,5 +1,5 @@
 /*===============================================================================
-Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
+Copyright (c) 2015-2017 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 

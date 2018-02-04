@@ -1,6 +1,5 @@
 /*==============================================================================
-Copyright (c) 2015-2016 PTC Inc. All Rights Reserved.
-
+Copyright (c) 2015-2017 PTC Inc. All Rights Reserved.
 
 Copyright (c) 2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 
@@ -43,7 +42,7 @@ public:
 
     /// Returns the Tracker class' type
     static Type getClassType();
-    
+
     /// Reset the current pose.
     /**
      *  Reset the current pose heading in the world coordinate system.
@@ -52,7 +51,6 @@ public:
      */
     virtual bool recenter() = 0;
 
-
     ///  Enable pose prediction to reduce latency.
     /**
      *  Recommended to use this mode for VR experience.
@@ -60,13 +58,11 @@ public:
      */
     virtual bool setPosePrediction(bool enable) = 0;
 
-
     // Get the current pose prediction mode
     /**
      *  by default prediction is off.
      */
     virtual bool getPosePrediction() const = 0;
-
 
     /// Enable usage of a model correction for the pose
     /**
@@ -83,7 +79,6 @@ public:
      */
     virtual bool setModelCorrection(const TransformModel* transformationmodel) = 0;
 
-
     /// Get the current correction model
     /**
      *  return the currently set transform model used for correction.
@@ -91,14 +86,12 @@ public:
      */
     virtual const TransformModel* getModelCorrection() const = 0;
 
-
     /// Return the default head transform model
     /**
      *  utility method to get the recommended Head model. 
      *  Unit is in meter.
      */
     virtual const HeadTransformModel* getDefaultHeadModel() const = 0;
-
 
     /// Returns the default handheld transform model
     /**
