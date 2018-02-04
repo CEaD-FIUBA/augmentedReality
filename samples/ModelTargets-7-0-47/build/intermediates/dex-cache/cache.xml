@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cristiangonzalez/Documents/CEaD/augmentedReality/build/java/vuforia/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2d012b27a87c8553c6f979a57201bc148f0f251">
+        <dex dex="/home/cristiangonzalez/Documents/CEaD/augmentedReality/samples/ModelTargets-7-0-47/app/build/intermediates/pre-dexed/debug/Vuforia_81e8a88370a4ed04d833b48daad4123923df9cbe.jar" />
+    </item>
+
+</items>
