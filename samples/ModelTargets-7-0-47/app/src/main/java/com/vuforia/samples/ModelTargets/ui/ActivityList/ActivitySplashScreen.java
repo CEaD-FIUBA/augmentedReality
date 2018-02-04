@@ -52,7 +52,7 @@ public class ActivitySplashScreen extends Activity
             {
                 Intent intent = new Intent(ActivitySplashScreen.this,
                     AboutScreen.class);
-                intent.putExtra("ABOUT_TEXT_TITLE", "Model Targets");
+                intent.putExtra("ABOUT_TEXT_TITLE", "CEAD - Centro de Educación a Distancia");
                 intent.putExtra("ACTIVITY_TO_LAUNCH",
                     "app.ModelTargets.ModelTargets");
                 intent.putExtra("ABOUT_TEXT", "MT_about.html");
