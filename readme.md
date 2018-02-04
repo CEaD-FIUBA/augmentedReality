@@ -11,11 +11,12 @@ El proyecto debe tener la siguiente estructura
             lib\                      Dynamic link libraries
         licenses\                     License Agreements
         samples\                      Destination folder for sample applications
+            ModelTargets-x-y-xy       Model Targets folder sample                            
             readme.txt                Instructions for downloading and installing the sample applications
         readme.md                    This document
 
 
-Esta carpeta debe estar a la misma altura que la carpeta SDK.
+!!! Esta carpeta debe estar a la misma altura que la carpeta SDK !!!
 
 
 
