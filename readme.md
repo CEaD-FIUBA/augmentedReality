@@ -36,6 +36,8 @@ Model Target Generator
 
 Link : https://developer.vuforia.com/downloads/tool#downloadModal
 
+Uso : https://library.vuforia.com/articles/Solution/model-target-generator-user-guide.html
+
 Introduction model targets Unity
 ================================================
 
