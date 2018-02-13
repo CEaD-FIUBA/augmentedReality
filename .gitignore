@@ -23,6 +23,5 @@ hs_err_pid*
 
 
 samples/ModelTargets-7-0-47/build/android-profile/
-samples/ModelTargets-7-0-47/app/build/intermediates/incremental/mergeDebugResources/
-samples/ModelTargets-7-0-47/app/build/intermediates/incremental/packageDebug/
+samples/ModelTargets-7-0-47/app/build/intermediates/incremental/
 samples/ModelTargets-7-0-47/.gradle
