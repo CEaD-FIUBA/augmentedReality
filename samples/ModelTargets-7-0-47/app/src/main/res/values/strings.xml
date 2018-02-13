@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ModelTargets</string>
+    <string name="app_name">Nombre de la applicacion</string>
     <string name="app_description">Model Targets Sample Applications</string>
     
     <string name="button_start">Iniciar</string>
