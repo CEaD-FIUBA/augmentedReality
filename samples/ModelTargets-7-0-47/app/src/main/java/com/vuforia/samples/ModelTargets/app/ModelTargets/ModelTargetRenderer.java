@@ -87,8 +87,8 @@ public class ModelTargetRenderer implements GLSurfaceView.Renderer, SampleAppRen
     private boolean mIsActive = false;
     private boolean mModelIsLoaded = false;
 
-    public ModelTargetRenderer(ModelTargets activity, SampleApplicationSession session)
-    {
+    public ModelTargetRenderer(ModelTargets activity, SampleApplicationSession session){
+        Log.i(LOGTAG, "create object");
         mActivity = activity;
         vuforiaAppSession = session;
         // SampleAppRenderer used to encapsulate the use of RenderingPrimitives setting
@@ -123,8 +123,7 @@ public class ModelTargetRenderer implements GLSurfaceView.Renderer, SampleAppRen
     @Override
     public void onSurfaceCreated(GL10 gl, EGLConfig config)
     {
-        Log.d(LOGTAG, "GLRenderer.onSurfaceCreated");
-        
+        Log.i(LOGTAG, "GLRenderer.onSurfaceCreated");
         // Call Vuforia function to (re)initialize rendering after first use
         // or after OpenGL ES context was lost (e.g. after onPause/onResume):
         vuforiaAppSession.onSurfaceCreated();
@@ -136,7 +135,7 @@ public class ModelTargetRenderer implements GLSurfaceView.Renderer, SampleAppRen
     // Called when the surface changed size.
     @Override
     public void onSurfaceChanged(GL10 gl, int width, int height) {
-        Log.d(LOGTAG, "GLRenderer.onSurfaceChanged");
+        Log.i(LOGTAG, "GLRenderer.onSurfaceChanged");
         
         // Call Vuforia function to handle render surface size changes:
         vuforiaAppSession.onSurfaceChanged(width, height);

@@ -86,15 +86,14 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
-        Log.d(LOGTAG, "onCreate");
+        Log.i(LOGTAG, "onCreate");
         super.onCreate(savedInstanceState);
         
         vuforiaAppSession = new SampleApplicationSession(this, CameraDevice.MODE.MODE_OPTIMIZE_SPEED);
         
         startLoadingAnimation();
 
-        vuforiaAppSession
-            .initAR(this, ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
+        vuforiaAppSession.initAR(this, ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         
         mGestureDetector = new GestureDetector(this, new GestureListener());
         
@@ -152,9 +151,8 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     // Called when the activity will start interacting with the user.
     @Override
-    protected void onResume()
-    {
-        Log.d(LOGTAG, "onResume");
+    protected void onResume() {
+        Log.i(LOGTAG, "onResume");
         super.onResume();
         
         try
@@ -188,9 +186,8 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     // Called when the system is about to start resuming a previous activity.
     @Override
-    protected void onPause()
-    {
-        Log.d(LOGTAG, "onPause");
+    protected void onPause(){
+        Log.i(LOGTAG, "onPause");
         super.onPause();
         
         if (mGlView != null)
@@ -211,9 +208,8 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     // The final call you receive before your activity is destroyed.
     @Override
-    protected void onDestroy()
-    {
-        Log.d(LOGTAG, "onDestroy");
+    protected void onDestroy(){
+        Log.i(LOGTAG, "onDestroy");
         super.onDestroy();
         
         try
@@ -235,6 +231,7 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     // Initializes AR application components.
     private void initApplicationAR()
     {
+        Log.i(LOGTAG, "initApplicationAR");
         // Create OpenGL ES view:
         int depthSize = 16;
         int stencilSize = 0;
@@ -275,8 +272,8 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     // Methods to load and destroy tracking data.
     @Override
-    public boolean doLoadTrackersData()
-    {
+    public boolean doLoadTrackersData(){
+        Log.i(LOGTAG, "doLoadTrackersData");
         TrackerManager tManager = TrackerManager.getInstance();
         ObjectTracker objectTracker = (ObjectTracker) tManager
             .getTracker(ObjectTracker.getClassType());
@@ -288,11 +285,11 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
         
         if (mDataset == null)
             return false;
-        
-        if (!mDataset.load("VuforiaMars_ModelTarget.xml",
-            STORAGE_TYPE.STORAGE_APPRESOURCE))
-            return false;
 
+        if (!mDataset.load("VuforiaMars_ModelTarget.xml",STORAGE_TYPE.STORAGE_APPRESOURCE)){
+            Log.e(LOGTAG, "[ModelTargets] - El archivo no fue encontrado");
+            return false;
+        }
         if (!objectTracker.activateDataSet(mDataset))
             return false;
 
@@ -301,17 +298,14 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     
     @Override
-    public boolean doUnloadTrackersData()
-    {
+    public boolean doUnloadTrackersData() {
         // Indicate if the trackers were unloaded correctly
+        Log.i(LOGTAG, "doUnloadTrackersData");
         boolean result = true;
-        
         TrackerManager tManager = TrackerManager.getInstance();
-        ObjectTracker objectTracker = (ObjectTracker) tManager
-            .getTracker(ObjectTracker.getClassType());
+        ObjectTracker objectTracker = (ObjectTracker) tManager.getTracker(ObjectTracker.getClassType());
         if (objectTracker == null)
             return false;
-        
         if (mDataset != null && mDataset.isActive())
         {
             if (objectTracker.getActiveDataSet(0).equals(mDataset)
@@ -424,24 +418,19 @@ public class ModelTargets extends Activity implements SampleApplicationControl,
     
     
     @Override
-    public boolean doInitTrackers()
-    {
+    public boolean doInitTrackers(){
+        Log.i(LOGTAG,"doInitTrackers");
         // Indicate if the trackers were initialized correctly
         boolean result = true;
-        
         TrackerManager tManager = TrackerManager.getInstance();
         Tracker tracker;
         
         // Trying to initialize the image tracker
         tracker = tManager.initTracker(ObjectTracker.getClassType());
-        if (tracker == null)
-        {
-            Log.e(
-                LOGTAG,
-                "Tracker not initialized. Tracker already initialized or the camera is already started");
+        if (tracker == null) {
+            Log.e( LOGTAG,"Tracker not initialized. Tracker already initialized or the camera is already started");
             result = false;
-        } else
-        {
+        } else {
             Log.i(LOGTAG, "Tracker successfully initialized");
         }
         return result;
