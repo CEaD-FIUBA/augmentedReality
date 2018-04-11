@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Rubik"/>
+</Tracking>
+
+<Assembly name="Rubiks_assembly">
+<Part name="Rubik" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-20.4513 37.2992 701.374" rotation="AD: 0.9999999999999974 -0.0001431862895198449 0.0005146288016456034 211.097">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
