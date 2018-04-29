@@ -2,10 +2,14 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class ChangeColor : MonoBehaviour, IPointerClickHandler
+public class LoadDataSetOnButtonClick : MonoBehaviour, IPointerClickHandler
 {
 	void OnEnable ()
 	{
+	}
+
+	public void LoadDataSet(){
+		new DynamicDataSetLoader();
 	}
 
 	public void SetRed(float value)
@@ -42,9 +46,10 @@ public class ChangeColor : MonoBehaviour, IPointerClickHandler
 
 	public void OnPointerClick(PointerEventData data)
 	{
-		Debug.Log("<color=blue> Pointer Click!! </color>");
-		if (GetComponent<Renderer>() != null)
+		Debug.Log("<color=blue> LoadDataSetOnButtonClick.OnPointerClick </color>");
+		if (GetComponent<Renderer>() != null){
 			GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
+		}
 		else if (GetComponent<Light>() != null)
 			GetComponent<Light>().color = new Color(Random.value, Random.value, Random.value, 1.0f);
 	}

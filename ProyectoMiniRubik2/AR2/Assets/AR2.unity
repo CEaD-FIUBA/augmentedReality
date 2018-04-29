@@ -152,7 +152,7 @@ MeshFilter:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 17056000}
-  m_Mesh: {fileID: 4300000, guid: af440b5db801af14184f13fbf8cc9680, type: 2}
+  m_Mesh: {fileID: 0}
 --- !u!23 &17056003
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -341,7 +341,7 @@ Transform:
   m_Children:
   - {fileID: 628259632}
   m_Father: {fileID: 1192129370}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &381668873
 GameObject:
@@ -355,6 +355,9 @@ GameObject:
   - component: {fileID: 381668876}
   - component: {fileID: 381668875}
   - component: {fileID: 381668874}
+  - component: {fileID: 381668881}
+  - component: {fileID: 381668880}
+  - component: {fileID: 381668879}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -455,6 +458,39 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &381668879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 381668873}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9ce7ccf005ac945a0cd9188b6b5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &381668880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 381668873}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9ce7ccf005ac945a0cd9188b6b5392, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &381668881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 381668873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71f437cfa250a7d4a9cb2760386ed379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &382645567
 GameObject:
   m_ObjectHideFlags: 0
@@ -641,6 +677,10 @@ Material:
     m_Colors:
     - _ContourColor: {r: 1, g: 1, b: 1, a: 1}
     - _SurfaceColor: {r: 0, g: 0, b: 0, a: 0}
+--- !u!1 &673011633 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100028, guid: dff7d0f212e6e405b9085bf61c9b5308, type: 3}
+  m_PrefabInternal: {fileID: 1976933862}
 --- !u!4 &727459036 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400028, guid: dff7d0f212e6e405b9085bf61c9b5308, type: 3}
@@ -684,7 +724,7 @@ MeshFilter:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 736708736}
-  m_Mesh: {fileID: 4300000, guid: 31f4ca7f9b1933e49b03ca4f1d3e7c4f, type: 2}
+  m_Mesh: {fileID: 0}
 --- !u!23 &736708739
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -861,6 +901,7 @@ GameObject:
   - component: {fileID: 1010719312}
   - component: {fileID: 1010719311}
   - component: {fileID: 1010719314}
+  - component: {fileID: 1010719315}
   m_Layer: 5
   m_Name: ButtonNext
   m_TagString: Untagged
@@ -908,9 +949,9 @@ MonoBehaviour:
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-    m_ColorMultiplier: 1
+    m_PressedColor: {r: 0, g: 0, b: 0, a: 1}
+    m_DisabledColor: {r: 1, g: 0, b: 0, a: 0.5019608}
+    m_ColorMultiplier: 2.55
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
@@ -926,17 +967,17 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 71f437cfa250a7d4a9cb2760386ed379, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 1010719315}
+        m_MethodName: Start
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1010719312
@@ -983,6 +1024,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71f437cfa250a7d4a9cb2760386ed379, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1010719315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1010719309}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b1d8ef3804d7aa4cb7b843ff8a73238, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  augmentationObject: {fileID: 0}
 --- !u!1 &1031341966
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,6 +1108,7 @@ GameObject:
   - component: {fileID: 1192129370}
   - component: {fileID: 1192129369}
   - component: {fileID: 1192129368}
+  - component: {fileID: 1192129372}
   m_Layer: 0
   m_Name: ModelTarget
   m_TagString: Untagged
@@ -1115,12 +1169,24 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 727459036}
   - {fileID: 368573351}
+  - {fileID: 727459036}
   - {fileID: 1148217256}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1192129372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1192129367}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b1d8ef3804d7aa4cb7b843ff8a73238, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  augmentationObject: {fileID: 673011633}
 --- !u!1 &1198873794
 GameObject:
   m_ObjectHideFlags: 0
@@ -1253,7 +1319,7 @@ MeshFilter:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1555923222}
-  m_Mesh: {fileID: 4300000, guid: 31f4ca7f9b1933e49b03ca4f1d3e7c4f, type: 2}
+  m_Mesh: {fileID: 0}
 --- !u!23 &1555923225
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1391,7 +1457,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400028, guid: dff7d0f212e6e405b9085bf61c9b5308, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400028, guid: dff7d0f212e6e405b9085bf61c9b5308, type: 3}
       propertyPath: m_LocalScale.x
@@ -1499,7 +1565,7 @@ MeshFilter:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2089507957}
-  m_Mesh: {fileID: 4300000, guid: af440b5db801af14184f13fbf8cc9680, type: 2}
+  m_Mesh: {fileID: 0}
 --- !u!23 &2089507960
 MeshRenderer:
   m_ObjectHideFlags: 0
