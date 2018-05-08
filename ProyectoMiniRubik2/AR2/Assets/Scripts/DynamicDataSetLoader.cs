@@ -31,6 +31,12 @@ public class DynamicDataSetLoader : MonoBehaviour
     {
 
         ObjectTracker objectTracker = TrackerManager.Instance.GetTracker<ObjectTracker>();
+        if (objectTracker.IsActive)
+        {
+            objectTracker.Stop();
+            objectTracker.DestroyAllDataSets(false);
+        }
+
         DataSet dataSet = objectTracker.CreateDataSet();
 
         if (dataSet.Load(dataSetName)) {

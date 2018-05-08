@@ -8,7 +8,7 @@ public class DynamicDataSetLoader2 : MonoBehaviour
 {
     // specify these in Unity Inspector
     public GameObject augmentationObject = null;  // you can use teapot or other object
-    public string dataSetName = "MiniRubik2";  //  Assets/StreamingAssets/QCAR/DataSetName
+    public static string dataSetName = "VuforiaMars_ModelTarget";  //  Assets/StreamingAssets/QCAR/DataSetName
 
     // Use this for initialization
     public void Start()
@@ -22,11 +22,10 @@ public class DynamicDataSetLoader2 : MonoBehaviour
 
         Debug.Log("<color=red>Path : " + dataSetName + "</color>");
         
-        this.augmentationObject = GameObject.Find("ModelTarget");
+        this.augmentationObject = GameObject.Find("ModelTarget2");
         
         VuforiaARController.Instance.RegisterVuforiaStartedCallback(LoadDataSet);
-        
-        
+           
     }
    
    
@@ -44,7 +43,12 @@ public class DynamicDataSetLoader2 : MonoBehaviour
     {
 
         ObjectTracker objectTracker = TrackerManager.Instance.GetTracker<ObjectTracker>();
-        
+        if (objectTracker.IsActive)
+        {
+            objectTracker.Stop();
+            objectTracker.DestroyAllDataSets(false);
+        }
+
         DataSet dataSet = objectTracker.CreateDataSet();
         if (dataSet.Load(dataSetName))
         {
